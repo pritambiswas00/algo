@@ -1,3 +1,11 @@
+mod interface;
+use interface::Algorithm;
+
+
+
+
+
 fn main() {
-    println!("Hello, world!");
+    let some_instance = Algorithm{};
+    
 }
